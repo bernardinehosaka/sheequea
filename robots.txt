@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ishabocou.dhkatz.dev/sitemap.xml
